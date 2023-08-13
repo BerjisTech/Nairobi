@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Nairobi",
+	"Description": "Everything you need to create a Nairobi based game",
+	"Category": "Assets",
+	"CreatedBy": "LordSombo I",
+	"CreatedByURL": "https://berjis.tech",
+	"DocsURL": "https://berjis.tech",
+	"MarketplaceURL": "",
+	"SupportURL": "https://berjis.tech",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
